@@ -1,4 +1,5 @@
 fastapi~=0.92.0
+uvicorn
 textual[dev]
 rich==13.3.2
 websockets~=10.4

@@ -6,12 +6,12 @@ Screen {
 .box {
     height: 100%;
     width: 1fr;
-    border: solid green;
-
 }
 
 .rooms {
     width: 20;
+    background: $surface-darken-1;
+    border-right: tall white;
 }
 
 .chat {
@@ -20,6 +20,7 @@ Screen {
 }
 .input_field{
     width: 1fr;
+    border: tall $accent;
 }
 
 .input{
@@ -33,4 +34,6 @@ Screen {
 
 .users {
     width: 20;
+    background: $surface-darken-1;
+    border-left: tall white;
 }

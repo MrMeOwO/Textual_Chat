@@ -16,7 +16,7 @@ from textual.reactive import reactive
 
 
 USERNAME = f"MrMeOwO"
-ADRES = "ws://192.168.1.138:80/ws"
+ADRES = "ws://localhost:80/ws"
 
 
 def render_str(text, **kwargs):
