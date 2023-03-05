@@ -1,0 +1,4 @@
+fastapi~=0.92.0
+textual[dev]
+rich==13.3.2
+websockets~=10.4
